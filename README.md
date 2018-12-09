@@ -1,2 +1,2 @@
 # myfirstproject1
-This the first modiication of the project
+This the first modification of the project
